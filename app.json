@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "background-sound",
+    "slug": "background-sound",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "background-sound"
+}
